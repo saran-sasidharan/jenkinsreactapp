@@ -1,5 +1,5 @@
 set -x
 
-npm run test
+npm test
 
 set +x
