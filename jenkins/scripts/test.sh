@@ -3,6 +3,6 @@
 
 set -x
 
-npm test
+npm run test
 
 set +x 
